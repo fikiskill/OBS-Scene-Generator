@@ -5,7 +5,7 @@ Python script to automatically create/transform any possibly necessary scenes/so
 2) Open up command prompt, and paste this command: `pip install obs-websocket-py`
 3) Aftet that drag the script into your wall/scripts folder with the extraSettings.py file
 4) Make sure that obsSettings.py, extraSettings.py and settings.ahk are configured
-5) After following these instructions run OBS and run the script. Everything should work fine but if you have any issues see [issues](#Issues)
+5) After following these instructions run OBS and run the script (you dont need to have your instances open). Everything should work fine but if you have any issues see [issues](#Issues)
 6) Note that if you are using hotkeys for scene switching in obs (which you shouldnt because obs websocket switching is better and you already set it up for this script okayge) the macro will not create those hotkeys for you. The library is just unable to do that
 # Issues
 ## Some sources didnt create
